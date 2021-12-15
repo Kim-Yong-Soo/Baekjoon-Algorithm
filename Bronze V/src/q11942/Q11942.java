@@ -2,6 +2,6 @@ package q11942;
 
 public class Q11942 {
 	public static void main(String[] args) {
-		System.out.println("°í·Á´ëÇĞ±³");
+		System.out.println("ê³ ë ¤ëŒ€í•™êµ");
 	}
 }
