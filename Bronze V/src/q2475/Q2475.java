@@ -9,6 +9,7 @@ public class Q2475 {
 
 		for (int i = 0; i < in.length; i++)
 			in[i] = sc.nextInt();
+		sc.close();
 
 		int sum = 0;
 		for (int ins : in)

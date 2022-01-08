@@ -11,6 +11,7 @@ public class Q5522 {
 			int input = sc.nextInt();
 			score[i] = (0 <= input || input <= 100) ? input : 0;
 		}
+		sc.close();
 
 		int sum = 0;
 		for (int sco : score)

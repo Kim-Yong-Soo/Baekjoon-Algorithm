@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Q2752 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int[] in = new int[3], out = new int[3];
+		int[] in = new int[3];
 
 		for (int i = 0; i < in.length; i++)
 			in[i] = sc.nextInt();
