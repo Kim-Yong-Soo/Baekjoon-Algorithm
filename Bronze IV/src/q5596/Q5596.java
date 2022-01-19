@@ -11,6 +11,8 @@ public class Q5596 {
 			for (int j = 0; j < 4; j++)
 				sum[i] += sc.nextInt();
 		}
+		sc.close();
+		
 		System.out.println((sum[0] == sum[1]) ? sum[0] : Math.max(sum[0], sum[1]));
 	}
 }
